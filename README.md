@@ -2,4 +2,4 @@
 Advanced Computing Techniques course
 
 
-Solutions for the course exercises.
+Solutions for the course exercises
